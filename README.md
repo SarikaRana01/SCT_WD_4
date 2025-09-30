@@ -24,7 +24,7 @@ It allows users to sign up, log in, and manage their tasks efficiently based on 
 ![Login Screenshot](screenshots/login.png)
 
 ### Dashboard / To-Do List
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/home.png)
 
 ---
 
